@@ -20,7 +20,7 @@
 | CPP Module 06   ||![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)|
 | CPP Module 07   ||![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)|
 | CPP Module 08   ||![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)|
-| Born2beroot     |[![engo's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cldek2z6j00730fmqhfch5sy1/project/2377481)](https://github.com/JaeSeoKim/badge42)| ![image](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) ![images](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![image](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white) |
+| Born2beroot     |[![engo's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cldek2z6j00730fmqhfch5sy1/project/2377481)](https://github.com/JaeSeoKim/badge42)| ![image](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) ![images](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![image](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white) |
 | Ft_containers   ||![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)|
 | Ft_IRC          ||![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)|
 | Ft_transcendence|||
